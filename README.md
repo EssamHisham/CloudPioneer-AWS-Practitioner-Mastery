@@ -349,6 +349,6 @@ AWS Cloud Practitioner Certification Study Resources
 
 Help us expand and improve this resource by contributing to the repository. If you have additional services to include, explanations to enhance, or corrections to make, your contributions are valuable to the AWS community.
 
-[**Contribute Now!**] ([https://github.com/EssamHisham/CloudPioneer-AWS-Practitioner-Mastery/])
+[**Contribute Now!**] (https://github.com/EssamHisham/CloudPioneer-AWS-Practitioner-Mastery/)
 
 We welcome your pull requests, suggestions, and feedback. Let's work together to create an even more comprehensive and helpful study guide for the AWS Cloud Practitioner Certification exam.
